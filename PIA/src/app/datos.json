@@ -1,0 +1,38 @@
+ {
+    "publicaciones": [
+        {
+            "usuario": "@maxelperrito",
+            "imagen": "../assets/imagenes/perrito.jpeg",
+            "caption": "Aqui en la playita...",
+            "comentario": "", 
+            "id": "3"
+          },
+          {
+            "usuario": "@maxelperrito",
+            "imagen": "../assets/imagenes/verano.jpg",
+            "caption": "",
+            "comentario": "",   
+            "id": "2"
+          },
+          {
+            "usuario": "@maxelperrito",
+            "imagen": "../assets/imagenes/verano3.jpg",
+            "caption": "",
+            "comentario": "", 
+            "id": "1"
+          }
+    ],
+    "usuario" : {
+      "nombre":"Max",
+      "alias": "@maxelperrito",  
+      "fotoPerfil": "../assets/imagenes/perrito.jpeg",
+      "seguidores": 3,
+      "seguidos": 20,
+      "bio": "Guau", 
+      "publicaciones": [
+        "../assets/imagenes/playa.jpg",
+        "../assets/imagenes/verano.jpg",
+        "../assets/imagenes/verano3.jpg"
+      ]
+    }
+}
